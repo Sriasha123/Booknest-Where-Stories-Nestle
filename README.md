@@ -1,1 +1,1 @@
-about the project
+project Details
